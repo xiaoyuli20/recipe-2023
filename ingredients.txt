@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 3 avocados
+=======
+1 avocados
+>>>>>>> dislike-avocados
 1 lime
 1 tsp salt
 1/2 onion
